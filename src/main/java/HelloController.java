@@ -30,7 +30,7 @@ public class HelloController {
                     "</head>" +
                     "<body>" +
                     "  <header>" +
-                    "    <h1>Hello, CI/CD!</h1>" +
+                    "    <h1>Code to cloud</h1>" +
                     "    <p>Deployed via GitHub Actions & Render.com</p>" +
                     "  </header>" +
                     "  <section>" +
