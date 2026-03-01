@@ -34,7 +34,7 @@ public class HelloController {
                     "    <p>Deployed via GitHub Actions & Render.com</p>" +
                     "  </header>" +
                     "  <section>" +
-                    "    <h2>Check out my project links</h2>" +
+                    "    <h2>Check out my project</h2>" +
                     "    <a class='btn' href='https://github.com/yourusername/your-repo' target='_blank'>GitHub Repo</a>" +
                     "    <a class='btn' href='https://your-app-name.onrender.com' target='_blank'>Live App</a>" +
                     "  </section>" +
